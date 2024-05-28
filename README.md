@@ -13,7 +13,6 @@ WebTrap é um projeto Django que implementa um formulário honeypot. O honeypot 
 
 - Python 3.12
 - Django 5.0.6
-- SQLite (banco de dados)
 - HTML/CSS (templates)
     
     ## Iniciando o projeto
